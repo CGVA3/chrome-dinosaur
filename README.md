@@ -1,6 +1,8 @@
 # chrome-dinosaur
 I wrote this code just for fun, the purpose of this project is the automatic detection of the obstacles of the chrome-dinosaur using light sensors.
+
 //Created by Cesar Guillermo Vazquez Alvarez
+
 0.0. 	Open the terminal
 
 0.1.	Install python and Arduino Ide.
